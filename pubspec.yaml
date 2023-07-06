@@ -10,8 +10,8 @@ dependencies:
   flutter:
     sdk: flutter
   flutter_cube: ^0.1.1
-  motion_sensors: ^0.1.0
-
+  motion_sensors:
+    git: https://github.com/rlmax/motion_sensors.git
 
 dev_dependencies:
   flutter_test:

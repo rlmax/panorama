@@ -102,10 +102,11 @@ packages:
   motion_sensors:
     dependency: "direct main"
     description:
-      name: motion_sensors
-      sha256: "4e2734a76cd6da633013bcdc68a9efe9fbbcff906e6d6c45040932edda3fa5d6"
-      url: "https://pub.dev"
-    source: hosted
+      path: "."
+      ref: HEAD
+      resolved-ref: "9cbc48de89ff05026dc0512377dfa1fc72955ed7"
+      url: "https://github.com/rlmax/motion_sensors.git"
+    source: git
     version: "0.1.0"
   path:
     dependency: transitive
